@@ -1,0 +1,19 @@
+ 
+
+
+
+req.body
+
+{  
+firstName
+ lastNamee
+ email
+ mobileNumber
+ age
+ country
+ gender
+ }
+
+
+ createdAt
+ updatedAt
